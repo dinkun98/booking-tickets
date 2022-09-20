@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/booking-tickets/static/css/main.64c400c3.chunk.css",
+    "main.js": "/booking-tickets/static/js/main.0dd1953b.chunk.js",
+    "main.js.map": "/booking-tickets/static/js/main.0dd1953b.chunk.js.map",
+    "runtime-main.js": "/booking-tickets/static/js/runtime-main.b2d8b6e2.js",
+    "runtime-main.js.map": "/booking-tickets/static/js/runtime-main.b2d8b6e2.js.map",
+    "static/js/2.44691ff4.chunk.js": "/booking-tickets/static/js/2.44691ff4.chunk.js",
+    "static/js/2.44691ff4.chunk.js.map": "/booking-tickets/static/js/2.44691ff4.chunk.js.map",
+    "index.html": "/booking-tickets/index.html",
+    "precache-manifest.e75444bc06a29244b35b872be5191bd7.js": "/booking-tickets/precache-manifest.e75444bc06a29244b35b872be5191bd7.js",
+    "service-worker.js": "/booking-tickets/service-worker.js",
+    "static/css/main.64c400c3.chunk.css.map": "/booking-tickets/static/css/main.64c400c3.chunk.css.map",
+    "static/js/2.44691ff4.chunk.js.LICENSE.txt": "/booking-tickets/static/js/2.44691ff4.chunk.js.LICENSE.txt",
+    "static/media/BaiTapBookingTicket.css": "/booking-tickets/static/media/Pony.1716f3f8.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2d8b6e2.js",
+    "static/js/2.44691ff4.chunk.js",
+    "static/css/main.64c400c3.chunk.css",
+    "static/js/main.0dd1953b.chunk.js"
+  ]
+}
